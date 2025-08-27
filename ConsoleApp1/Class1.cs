@@ -8,19 +8,13 @@ namespace ConsoleApp1
 {
     internal class Class1
     {
-        private string brand;
-        private int size;
+        public string name {get; set;}
+        public int age {get; set;}
 
-        public string Brand
+        public void DisplayMaloi()
         {
-            get { return brand; }
-            set { brand = value; }
-        }
-        
-        public int Size
-        {
-            get { return size; }
-            set { size = value; }
+            Console.WriteLine($"Hi I'm {name} and I am {age}");
         }
     }
 }
+
