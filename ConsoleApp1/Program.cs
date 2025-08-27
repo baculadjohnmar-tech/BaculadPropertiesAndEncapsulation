@@ -13,9 +13,12 @@ namespace ConsoleApp1
         {
             Maloi bini = new Maloi();
             Console.Write("Name: ");
-            bini.name = 
+            bini.name = Console.ReadLine();
             Console.Write("Age: ");
+            bini.age = Convert.ToInt32(Console.ReadLine());
+            
         }
     }
 }
+
 
