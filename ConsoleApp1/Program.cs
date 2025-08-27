@@ -11,8 +11,11 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            
-             
+            Maloi bini = new Maloi();
+            Console.Write("Name: ");
+            bini.name = 
+            Console.Write("Age: ");
         }
     }
 }
+
