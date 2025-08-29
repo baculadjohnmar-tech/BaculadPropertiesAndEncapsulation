@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    internal class Program
+    internal class Shoe
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
