@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\Baculad_Exer8\Baculad_EXER_08Inheritance with User Input\bin\Debug\Baculad_EXER_08Inheritance with User Input.exe.config
+C:\Users\ACT-STUDENT\Desktop\Baculad_Exer8\Baculad_EXER_08Inheritance with User Input\bin\Debug\Baculad_EXER_08Inheritance with User Input.exe
+C:\Users\ACT-STUDENT\Desktop\Baculad_Exer8\Baculad_EXER_08Inheritance with User Input\bin\Debug\Baculad_EXER_08Inheritance with User Input.pdb
+C:\Users\ACT-STUDENT\Desktop\Baculad_Exer8\Baculad_EXER_08Inheritance with User Input\obj\Debug\Baculad_EXER_08Inheritance with User Input.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Baculad_Exer8\Baculad_EXER_08Inheritance with User Input\obj\Debug\Baculad_EXER_08Inheritance with User Input.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Baculad_Exer8\Baculad_EXER_08Inheritance with User Input\obj\Debug\Baculad_EXER_08Inheritance with User Input.exe
+C:\Users\ACT-STUDENT\Desktop\Baculad_Exer8\Baculad_EXER_08Inheritance with User Input\obj\Debug\Baculad_EXER_08Inheritance with User Input.pdb
+C:\Users\ACT-STUDENT\Desktop\Baculad_Exer8\Baculad_EXER_08Inheritance with User Input\obj\Debug\Baculad_EXER_08Inheritance with User Input.exe.config
